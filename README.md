@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @merenotnoonereal
-- 👀 I’m interested in minecraft plugins
-- 🌱 I’m currently learning minecraft plugins
-- 💞️ I’m looking to collaborate on minecraft plugins
-- 📫 How to reach me discord merenotnoone#3724
+- 👋 Hi, I’m @merenotnoonereal (someone took @merenotnoone like wth)
+- 📫 How to reach me discord merenotnoone
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coffee
 
